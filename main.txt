@@ -1,0 +1,421 @@
+# main
+2 Territorial Baloth
+1 Vines of Vastwood
+1 Viridian Harvest
+2 Mutagenic Growth
+3 Highborn Ghoul
+4 Dawntreader Elk
+4 Veilborn Ghoul
+1 Sightless Ghoul
+2 Scorned Villager
+1 Deputy of Acquittals
+1 Punish the Enemy
+3 Unyielding Krumar
+2 Grim Contest
+3 Angelic Gift
+2 Anticipate
+1 Bane of Bala Ged
+1 Bone Splinters
+1 Cliffside Lookout
+1 Cloud Manta
+1 Complete Disregard
+1 Coralhelm Guide
+1 Dispel
+1 Evolving Wilds
+1 Eyeless Watcher
+1 Fertile Thicket
+1 Forerunner of Slaughter
+1 From Beyond
+1 Giant Mantis
+1 Gideon's Reproach
+1 Hedron Archive
+2 Inspired Charge
+1 Lavastep Raider
+2 Lifespring Druid
+1 Looming Spires
+1 Makindi Sliderunner
+2 Malakir Familiar
+1 Mist Intruder
+1 Mortuary Mire
+1 Natural Connection
+1 Nirkana Assassin
+1 Oran-Rief Invoker
+1 Outnumber
+1 Pathway Arrows
+2 Plummet
+1 Radiant Flames
+1 Reclaiming Vines
+1 Retreat to Coralhelm
+1 Rush of Ice
+2 Scour from Existence
+1 Serene Steward
+1 Silent Skimmer
+1 Skyrider Elf
+1 Snapping Gnarlid
+1 Spell Shrivel
+1 Stasis Snare
+1 Stone Haven Medic
+1 Tightening Coils
+1 Tunneling Geopede
+1 Valakut Predator
+2 Zulaport Cutthroat
+1 Allied Reinforcements
+1 Kor Sky Climber
+1 Slip Through Space
+1 Ancient Crab
+1 Negate
+1 Roiling Waters
+2 Sweep Away
+2 Vampire Envoy
+1 Brute Strength
+1 Cinder Hellion
+1 Devour in Flames
+1 Embodiment of Fury
+2 Expedite
+1 Reckless Bushwhacker
+1 Sparkmage's Gambit
+1 Loam Larva
+2 Tajuru Pathwarden
+1 Bone Saw
+1 Chitinous Cloak
+2 Hedron Crawler
+1 Seer's Lantern
+2 Cinder Barrens
+1 Crumbling Vestige
+1 Meandering River
+2 Submerged Boneyard
+2 Timber Gorge
+2 Tranquil Expanse
+4 Unknown Shores
+3 Apothecary Geist
+1 Avacynian Missionaries
+1 Bygone Bishop
+4 Cathar's Companion
+1 Chaplain's Blessing
+2 Dauntless Cathar
+1 Devilthorn Fox
+2 Ethereal Guidance
+2 Inquisitor's Ox
+1 Inspiring Captain
+1 Militant Inquisitor
+1 Open the Armory
+1 Puncturing Light
+2 Stern Constable
+1 Strength of Arms
+1 Survive the Night
+1 Thalia's Lieutenant
+2 Unruly Mob
+1 Vessel of Ephemera
+1 Aberrant Researcher
+1 Compelling Deterrence
+1 Daring Sleuth
+1 Drownyard Explorers
+1 Fleeting Memories
+1 Forgotten Creation
+2 Ghostly Wings
+2 Jace's Scrutiny
+1 Just the Wind
+1 Manic Scribe
+1 Niblis of Dusk
+1 Pieces of the Puzzle
+2 Pore Over the Pages
+1 Reckless Scholar
+1 Rise from the Tides
+2 Silburlind Snapper
+3 Silent Observer
+2 Stitched Mangler
+1 Thing in the Ice
+1 Alms of the Vein
+1 Crow of Dark Tidings
+3 Dead Weight
+2 Farbog Revenant
+2 Ghoulcaller's Accomplice
+2 Grotesque Mutation
+1 Hound of the Farbogs
+1 Indulgent Aristocrat
+1 Liliana's Indignation
+2 Macabre Waltz
+1 Murderous Compulsion
+1 Pale Rider of Trostad
+1 Pick the Brain
+1 Rottenheart Ghoul
+1 Sanitarium Skeleton
+2 Shamble Back
+2 Stromkirk Mentor
+1 To the Slaughter
+1 Tooth Collector
+1 Triskaidekaphobia
+2 Twins of Maurer Estate
+1 Vampire Noble
+3 Vessel of Malignity
+1 Convicted Killer
+1 Devils' Playground
+1 Dissension in the Ranks
+2 Ember-Eye Wolf
+1 Fiery Temper
+1 Gatstaf Arsonists
+2 Geier Reach Bandit
+2 Geistblast
+3 Lightning Axe
+2 Magmatic Chasm
+1 Pyre Hound
+1 Ravenous Bloodseeker
+1 Reduce to Ashes
+1 Rush of Adrenaline
+2 Sanguinary Mage
+1 Structural Distortion
+2 Tormenting Voice
+1 Vessel of Volatility
+4 Voldaren Duelist
+1 Aim High
+1 Autumnal Gloom
+1 Briarbridge Patrol
+1 Confront the Unknown
+1 Crawling Sensation
+1 Deathcap Cultivator
+1 Duskwatch Recruiter
+2 Equestrian Skill
+1 Fork in the Road
+1 Gloomwidow
+1 Howlpack Resurgence
+1 Loam Dryad
+2 Moldgraf Scavenger
+4 Pack Guardian
+1 Quilled Wolf
+2 Rabid Bite
+2 Root Out
+1 Seasons Past
+1 Stoic Builder
+1 Vessel of Nascency
+1 Watcher in the Web
+1 Epitaph Golem
+1 Explosive Apparatus
+1 Harvest Hand
+2 Haunted Cloak
+1 Murderer's Axe
+1 Shard of Broken Glass
+1 Skeleton Key
+2 Forsaken Sanctuary
+2 Foul Orchard
+3 Stone Quarry
+3 Woodland Stream
+20 Island
+20 Swamp
+20 Mountain
+21 Forest
+1 Aegis Angel
+1 Marked by Honor
+1 Serra Angel
+1 Air Servant
+1 Disperse
+1 Sphinx of Magosi
+1 Mind Rot
+1 Nightmare
+1 Sengir Vampire
+1 Walking Corpse
+1 Borderland Marauder
+1 Cone of Flame
+1 Shivan Dragon
+1 Incremental Growth
+1 Oakenform
+1 Soul of the Harvest
+2 Seal of Strength
+1 Wirewood Symbiote
+1 Abundant Maw
+2 Distended Mindbender
+1 It of the Horrid Swarm
+1 Wretched Gryff
+2 Borrowed Grace
+1 Choking Restraints
+1 Dawn Gryff
+1 Desperate Sentry
+1 Drogskol Shieldmate
+1 Extricator of Sin
+2 Faithbearer Paladin
+1 Geist of the Lonely Vigil
+1 Guardian of Pilgrims
+1 Ironwright's Cleansing
+1 Long Road Home
+1 Selfless Spirit
+2 Sigardian Priest
+1 Spectral Reserves
+3 Thraben Standard Bearer
+1 Contingency Plan
+4 Curious Homunculus
+2 Displace
+1 Drag Under
+1 Enlightened Maniac
+1 Exultant Cultist
+1 Laboratory Brute
+1 Lunar Force
+1 Mausoleum Wanderer
+1 Scour the Laboratory
+1 Spontaneous Mutation
+2 Tattered Haunter
+3 Boon of Emrakul
+5 Borrowed Malevolence
+2 Cemetery Recruitment
+1 Certain Death
+1 Dark Salvation
+1 Dusk Feaster
+4 Gavony Unhallowed
+3 Graf Rats
+1 Haunted Dead
+1 Liliana's Elite
+1 Markov Crusader
+2 Midnight Scavengers
+2 Olivia's Dragoon
+1 Prying Questions
+3 Ruthless Disposal
+1 Skirsdag Supplicant
+3 Strange Augmentation
+1 Stromkirk Condemned
+1 Succumb to Temptation
+2 Vampire Cutthroat
+1 Wailing Ghoul
+1 Weirded Vampire
+1 Alchemist's Greeting
+2 Blood Mist
+1 Bold Impaler
+2 Borrowed Hostility
+2 Distemper of the Blood
+3 Galvanic Bombardment
+4 Hanweir Garrison
+2 Incendiary Flow
+1 Make Mischief
+1 Otherworldly Outburst
+1 Prophetic Ravings
+1 Savage Alliance
+1 Smoldering Werewolf
+1 Spreading Flames
+1 Stensia Banquet
+2 Vildin-Pack Outcast
+2 Backwoods Survivalists
+3 Bloodbriar
+2 Crossroads Consecrator
+1 Emrakul's Influence
+1 Foul Emissary
+1 Gnarlwood Dryad
+1 Hamlet Captain
+1 Primal Druid
+1 Springsage Ritual
+2 Swift Spinner
+1 Tangleclaw Werewolf
+2 Ulvenwald Captive
+1 Waxing Moon
+1 Wolfkin Bond
+2 Woodland Patrol
+1 Grim Flayer
+1 Mercurial Geists
+1 Ride Down
+3 Cathar's Shield
+2 Field Creeper
+1 Geist-Fueled Scarecrow
+1 Lupine Prototype
+1 Soul Separator
+1 Stitcher's Graft
+5 Terrarion
+3 Hanweir Battlements
+1 Acrobatic Maneuver
+1 Aerial Responder
+1 Aviary Mechanic
+1 Captured by the Consulate
+1 Consulate Surveillance
+2 Glint-Sleeve Artisan
+1 Inspired Charge
+2 Ninth Bridge Patrol
+1 Pressure Point
+1 Propeller Pioneer
+1 Revoke Privileges
+2 Skyswirl Harrier
+1 Skywhaler's Shot
+3 Tasseled Dromedary
+2 Thriving Ibex
+2 Aether Theorist
+1 Aether Tradewinds (Æther Tradewinds)
+2 Dramatic Reversal
+1 Era of Innovation
+1 Gearseeker Serpent
+2 Hightide Hermit
+1 Minister of Inquiries
+1 Revolutionary Rebuff
+1 Select for Inspection
+1 Thriving Turtle
+1 Vedalken Blademaster
+1 Weldfast Wingsmith
+2 Wind Drake
+2 Ambitious Aetherborn
+1 Dhund Operative
+1 Die Young
+3 Embraal Bruiser
+2 Fortuitous Find
+1 Foundry Screecher
+2 Lawless Broker
+1 Live Fast
+1 Mind Rot
+2 Night Market Lookout
+1 Prakhata Club Security
+2 Thriving Rats
+1 Tidy Conclusion
+1 Built to Smash
+1 Cathartic Reunion
+1 Fateful Showdown
+2 Giant Spectacle
+1 Maulfist Doorbuster
+1 Quicksmith Genius
+1 Reckless Fireweaver
+1 Renegade Tactics
+1 Skyship Stalker
+2 Spireside Infiltrator
+1 Spontaneous Artist
+1 Start Your Engines
+1 Terror of the Fairgrounds
+1 Thriving Grubs
+3 Wayward Giant
+2 Appetite for the Unnatural
+1 Bristling Hydra
+1 Commencement of Festivities
+2 Cowl Prowler
+1 Creeping Mold
+1 Fairgrounds Trumpeter
+2 Ghirapur Guide
+2 Highspire Artisan
+1 Nature's Way
+1 Ornamental Courage
+3 Peema Outrider
+1 Riparian Tiger
+1 Sage of Shaila's Claim
+1 Servant of the Conduit
+2 Take Down
+1 Thriving Rhino
+1 Wild Wanderer
+1 Wildest Dreams
+2 Wily Bandar
+1 Cloudblazer
+1 Depala, Pilot Exemplar
+1 Rashmi, Eternities Crafter
+3 Unlicensed Disintegration
+2 Veteran Motorist
+1 Voltaic Brawler
+1 Accomplished Automaton
+1 Aradara Express
+1 Chief of the Foundry
+1 Consulate Skygate
+1 Demolition Stomper
+2 Dukhara Peafowl
+1 Eager Construct
+2 Filigree Familiar
+1 Ghirapur Orrery
+1 Inventor's Goggles
+1 Metalspinner's Puzzleknot
+1 Metalwork Colossus
+2 Narnam Cobra
+1 Perpetual Timepiece
+1 Prakhata Pillar-Bug
+1 Prophetic Prism
+1 Self-Assembler
+1 Sky Skiff
+1 Weldfast Monitor
+1 Whirlermaker
+2 Workshop Assistant
+1 Sequestered Stash
